@@ -1,0 +1,1 @@
+I used the MNIST Handwritten Digits Database as our training dataset. Here I have used logistic regression and I am currently working on using a feed-forward neural network to better this existing model. Done for completing a course on Jovian.
