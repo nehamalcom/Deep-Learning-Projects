@@ -1,0 +1,1 @@
+It is challenging to improve accuracy of a logistic regression model beyond 87% as we saw earlier. We will improve upon it using a feed-forward neural network which can capture non-linear relationships between inputs and targets.
