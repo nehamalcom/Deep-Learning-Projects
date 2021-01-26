@@ -8,3 +8,7 @@ It is challenging to improve accuracy of a logistic regression model beyond 87%.
   
 ## 3. Insurance Cost Prediction using Linear Regression
   I have used information like a person's age, sex, BMI, no. of children and smoking habit to predict the price of yearly medical bills. This kind of model is useful for insurance companies to determine the yearly insurance premium for a person. The dataset for this problem is taken from Kaggle. Done for completing a course on Jovian.
+
+## 4. Everyday Object Image Classification using a Neural Network
+  We are using the CIFAR10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html. We will set up a training pipeline to train a neural network on a GPU (if possible) and experiment with different network architectures & hyperparameters. Done for completing a course on Jovian.
+  
