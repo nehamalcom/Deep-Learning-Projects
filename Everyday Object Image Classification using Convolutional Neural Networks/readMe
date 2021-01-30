@@ -1,0 +1,2 @@
+We have got 96.8% accuracy by training a feed-forward neural network with a single hidden layer to classify handwritten digits earlier. 
+Here, we will use the CIFAR10 dataset which has 60,000 32x32 px colour images in 10 classes.
